@@ -1,0 +1,28 @@
+name: tommypemberton
+favicon: null
+layout_spectrum: 0.44897538609802723
+typography_spectrum: 0.04226833721622825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1947581060230732
+  lightness: 0.31671317969448864
+  saturation: 0.3605920113623142
+  rhythmicContrast: 0.35254914523102343
+purpose: []
